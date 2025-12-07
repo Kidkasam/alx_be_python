@@ -16,7 +16,8 @@ def main():
     # Part 1: show current date & time
     current_date = display_current_datetime()
 
-    # Part 2: user input for future date calc
+    # Part 2: user input for future date calc5
+    
     days_to_add = int(input("Enter the number of days to add to the current date: "))
     calculate_future_date(current_date, days_to_add)
 
